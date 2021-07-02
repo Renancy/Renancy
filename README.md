@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 This is my GitHub profile!
 
-### LikedIn Page: https://www.linkedin.com/in/renan-cyrillo-lima-b75a10163/ \\
+### LikedIn Page: https://www.linkedin.com/in/renan-cyrillo-lima-b75a10163/ \n
 ### e-mail: renancy.lima@gmail.com \\

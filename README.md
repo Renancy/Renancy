@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is my GitHub profile!
+
+### LikedIn Page: https://www.linkedin.com/in/renan-cyrillo-lima-b75a10163/ \\
+### e-mail: renancy.lima@gmail.com \\

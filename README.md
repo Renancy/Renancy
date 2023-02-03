@@ -19,3 +19,6 @@ This is my GitHub profile!
 
 ### LinkedIn Page: https://www.linkedin.com/in/renan-cyrillo-lima-b75a10163/ 
 ### e-mail: renancy.lima@gmail.com 
+
+
+![Snake animation](https://github.com/marcovicar/marcovicar/blob/output/github-contribution-grid-snake.svg)
